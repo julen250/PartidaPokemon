@@ -8,7 +8,7 @@ ID	Nombre		Tipo
 0007 	Squirtle 	Agua 
 0008 	Wartortle 	Agua 	
 0009 	Blastoise 	Agua
-0010			
+0010	Ratata		Normal		
 0011			
 0012			
 0013			
